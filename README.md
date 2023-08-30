@@ -1,6 +1,6 @@
 # Bootstrap_Art - Projeto de curso
 
-![Página Responsiva](https://github.com/Ruan-Moraes/Bootstrap_Art/assets/129057792/f982d121-8320-4fed-8bb6-a908d0019f75.jpeg)
+![Art](https://github.com/Ruan-Moraes/Bootstrap_Art/assets/129057792/cdf70d82-4112-435c-aeb2-53d751f34916)
 
 ## Sobre o Projeto
 
