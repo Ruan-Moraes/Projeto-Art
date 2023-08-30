@@ -1,6 +1,6 @@
 # Bootstrap_Art - Projeto de curso
 
-![Art](https://github.com/Ruan-Moraes/Bootstrap_Art/assets/129057792/14ba4954-c023-48cb-bdaf-28176a8e89d3)
+![Art](https://github.com/Ruan-Moraes/Bootstrap_Art/assets/129057792/cdf70d82-4112-435c-aeb2-53d751f34916)
 
 ## Sobre o Projeto
 
