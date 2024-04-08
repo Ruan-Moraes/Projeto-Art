@@ -1,4 +1,4 @@
-# Bootstrap_Art - Projeto de curso
+# Projeto Art - Projeto de curso
 
 ![Art](https://github.com/Ruan-Moraes/Bootstrap_Art/assets/129057792/cdf70d82-4112-435c-aeb2-53d751f34916)
 
@@ -28,4 +28,4 @@ Você tem duas maneiras de testar o projeto:
 
 Se preferir, você pode acessar uma versão online do projeto hospedada no GitHub Pages. Basta acessar o seguinte link:
 
-[Visualizar no GitHub Pages](https://ruan-moraes.github.io/Bootstrap_Art/)
+[Visualizar no GitHub Pages](https://ruan-moraes.github.io/Projeto-Art/)
